@@ -1,0 +1,6 @@
+token = ''
+mail_login = ''
+mail_pass = ''
+mail_host =''
+mail_to = ''
+id_support = ''
